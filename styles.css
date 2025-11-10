@@ -4,8 +4,8 @@ body{
 }
 div{
 	background-color: white;
-	padding:20px;
-	border: solid 1px gray;
+	padding:10px;
+	border: solid 1px #ccc;
 	height: 40px;
 	width:95%;
 	margin-left:25px;
